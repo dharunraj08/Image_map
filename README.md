@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''
+```
 map.html
 
 <html>
@@ -152,7 +152,7 @@ periyakurichi.html
 </body>
 </html>
 
-'''
+```
 # OUTPUT
 
 ![alt text](<Screenshot 2025-10-07 182039.png>) 
